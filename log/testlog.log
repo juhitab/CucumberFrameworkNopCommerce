@@ -1,0 +1,364 @@
+2024-05-23 21:27:34,208 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-23 21:27:38,541 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-23 21:27:41,530 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-23 21:27:51,433 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-23 21:27:51,436 - NopCommerceLog -INFO - **** Adding new customer ****
+2024-05-23 21:27:56,124 - NopCommerceLog -INFO - **** Saving customer details ****
+2024-05-23 21:27:58,306 - NopCommerceLog -INFO - **** Success message ****The new customer has been added successfully
+2024-05-23 21:27:58,309 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-23 21:29:14,738 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-23 21:29:17,766 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-23 21:29:21,375 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-23 21:29:31,955 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-23 21:29:31,959 - NopCommerceLog -INFO - **** Adding new customer ****
+2024-05-23 21:29:36,640 - NopCommerceLog -INFO - **** Saving customer details ****
+2024-05-23 21:29:38,631 - NopCommerceLog -INFO - **** Success message ****The new customer has been added successfully
+2024-05-23 21:29:38,633 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-23 21:29:39,014 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-23 21:29:41,145 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-23 21:29:43,032 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-23 21:29:47,916 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-23 21:29:49,955 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-23 21:29:50,018 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-23 21:29:50,021 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-23 21:29:50,283 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-23 21:29:52,011 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-23 21:29:54,606 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-23 21:29:58,200 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-23 21:29:59,887 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-23 21:29:59,950 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-23 21:29:59,953 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-23 21:30:00,274 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-23 21:30:01,918 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-23 21:30:03,621 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-23 21:30:05,451 - NopCommerceLog -ERROR - **** Login failed ****
+2024-05-23 21:30:05,451 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-23 21:30:05,745 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-23 21:30:07,438 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-23 21:30:08,959 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-23 21:30:10,075 - NopCommerceLog -ERROR - **** Login failed ****
+2024-05-23 21:30:10,076 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-23 21:41:16,206 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-23 21:41:19,068 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-23 21:41:22,053 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-23 21:41:33,471 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-23 21:41:33,473 - NopCommerceLog -INFO - **** Adding new customer ****
+2024-05-23 21:41:38,293 - NopCommerceLog -INFO - **** Saving customer details ****
+2024-05-23 21:41:40,689 - NopCommerceLog -INFO - **** Success message ****The new customer has been added successfully
+2024-05-23 21:41:40,691 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-23 21:41:42,022 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-23 21:41:47,090 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-23 21:41:49,329 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-23 21:41:54,102 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-23 21:41:56,084 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-23 21:41:56,151 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-23 21:41:56,153 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-23 21:41:56,556 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-23 21:41:59,119 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-23 21:42:01,653 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-23 21:42:07,640 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-23 21:42:09,717 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-23 21:42:09,761 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-23 21:42:09,763 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-23 21:42:10,529 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-23 21:42:12,406 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-23 21:42:14,196 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-23 21:42:16,155 - NopCommerceLog -ERROR - **** Login failed ****
+2024-05-23 21:42:16,156 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-23 21:42:16,435 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-23 21:42:18,225 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-23 21:42:20,385 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-23 21:42:22,529 - NopCommerceLog -ERROR - **** Login failed ****
+2024-05-23 21:42:22,530 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-23 23:05:31,565 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-23 23:05:34,959 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-23 23:05:37,578 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-23 23:05:44,516 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-23 23:05:44,517 - NopCommerceLog -INFO - **** Adding new customer ****
+2024-05-23 23:05:48,725 - NopCommerceLog -INFO - **** Saving customer details ****
+2024-05-23 23:05:50,323 - NopCommerceLog -INFO - **** Success message ****The new customer has been added successfully
+2024-05-23 23:05:50,324 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-23 23:05:50,536 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-23 23:05:51,502 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-23 23:05:54,156 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-23 23:06:04,248 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-23 23:06:04,453 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-23 23:06:05,399 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-23 23:06:06,416 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 12:58:38,092 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 12:58:47,555 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 12:58:49,201 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 12:58:55,772 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-24 12:58:55,774 - NopCommerceLog -INFO - **** Adding new customer ****
+2024-05-24 12:59:01,156 - NopCommerceLog -INFO - **** Saving customer details ****
+2024-05-24 12:59:03,015 - NopCommerceLog -INFO - **** Success message ****The new customer has been added successfully
+2024-05-24 12:59:03,017 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 12:59:03,382 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 12:59:05,270 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 12:59:06,328 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 12:59:13,571 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 12:59:13,870 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 12:59:15,717 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 12:59:18,216 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 12:59:23,227 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-24 12:59:24,951 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-24 12:59:24,996 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-24 12:59:24,998 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 12:59:25,285 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 12:59:27,052 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 12:59:29,410 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 12:59:31,471 - NopCommerceLog -ERROR - **** Login failed ****
+2024-05-24 12:59:31,472 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 12:59:31,794 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 12:59:33,703 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 12:59:35,742 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 12:59:37,576 - NopCommerceLog -ERROR - **** Login failed ****
+2024-05-24 12:59:37,577 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 13:05:11,432 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:05:14,495 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:05:17,621 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:05:26,173 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-24 13:05:26,175 - NopCommerceLog -INFO - **** Adding new customer ****
+2024-05-24 13:05:30,872 - NopCommerceLog -INFO - **** Saving customer details ****
+2024-05-24 13:05:32,949 - NopCommerceLog -INFO - **** Success message ****The new customer has been added successfully
+2024-05-24 13:05:32,951 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 13:05:33,367 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:05:35,492 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:05:37,848 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:05:48,078 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 13:05:48,434 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:05:50,119 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:05:52,214 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:05:56,463 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-24 13:05:58,092 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-24 13:05:58,162 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-24 13:05:58,163 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 13:05:58,483 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:06:00,096 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:06:02,797 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:06:04,869 - NopCommerceLog -ERROR - **** Login failed ****
+2024-05-24 13:06:04,870 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 13:06:05,172 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:06:06,858 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:06:08,947 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:06:10,200 - NopCommerceLog -ERROR - **** Login failed ****
+2024-05-24 13:06:10,201 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 13:24:16,874 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:24:19,775 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:24:22,385 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:24:31,992 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-24 13:24:31,997 - NopCommerceLog -INFO - **** Adding new customer ****
+2024-05-24 13:24:36,969 - NopCommerceLog -INFO - **** Saving customer details ****
+2024-05-24 13:24:39,076 - NopCommerceLog -INFO - **** Success message ****The new customer has been added successfully
+2024-05-24 13:24:39,078 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 13:24:39,489 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:24:41,388 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:24:43,913 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:24:52,564 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 13:24:52,888 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:24:54,589 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:24:56,466 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:25:02,136 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-24 13:25:04,028 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-24 13:25:04,064 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-24 13:25:04,066 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 13:45:18,324 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:45:21,302 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:45:23,952 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:45:34,720 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-24 13:45:34,727 - NopCommerceLog -INFO - **** Adding new customer ****
+2024-05-24 13:45:39,643 - NopCommerceLog -INFO - **** Saving customer details ****
+2024-05-24 13:45:42,002 - NopCommerceLog -INFO - **** Success message ****The new customer has been added successfully
+2024-05-24 13:45:42,005 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 13:45:42,343 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:45:44,089 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:45:45,945 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:45:55,146 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 13:45:55,429 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:45:57,136 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:45:59,866 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:46:05,976 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-24 13:46:07,686 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-24 13:46:07,772 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-24 13:46:07,773 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 13:49:12,026 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:49:14,941 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:49:18,071 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:49:22,745 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:49:24,437 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:49:26,931 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:49:29,267 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:49:30,990 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:55:44,263 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:55:47,355 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:55:50,436 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:55:58,573 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-24 13:55:58,576 - NopCommerceLog -INFO - **** Adding new customer ****
+2024-05-24 13:56:03,303 - NopCommerceLog -INFO - **** Saving customer details ****
+2024-05-24 13:56:05,444 - NopCommerceLog -INFO - **** Success message ****The new customer has been added successfully
+2024-05-24 13:56:05,447 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 13:56:05,752 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:56:07,644 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:56:10,597 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:56:21,022 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 13:56:21,341 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 13:56:22,928 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 13:56:24,827 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 13:56:30,472 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-24 13:56:32,467 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-24 13:56:32,532 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-24 13:56:32,534 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-24 22:19:57,484 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-24 22:20:01,208 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-24 22:20:02,854 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-24 22:20:10,996 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 13:22:09,583 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 13:22:14,738 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 13:22:17,465 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 13:22:33,605 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 13:44:27,184 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 13:44:30,576 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 13:44:33,483 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 13:44:43,033 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 13:44:43,460 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 13:44:45,359 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 13:44:47,793 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 13:44:57,711 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 13:44:59,741 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-25 13:44:59,814 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 13:44:59,816 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 14:02:19,796 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 14:02:22,661 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 14:02:25,259 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 14:02:35,514 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 14:02:35,831 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 14:02:37,317 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 14:02:39,612 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 14:02:50,401 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 14:04:30,061 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 14:04:32,700 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 14:04:35,406 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 14:04:44,427 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 20:45:14,807 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 20:45:17,871 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 20:45:20,179 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 20:45:28,778 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 20:50:03,550 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 20:50:05,167 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 20:50:07,890 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 20:50:15,360 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 20:50:15,361 - NopCommerceLog -INFO - **** Adding new customer ****
+2024-05-25 20:50:19,081 - NopCommerceLog -INFO - **** Saving customer details ****
+2024-05-25 20:50:22,110 - NopCommerceLog -INFO - **** Success message ****The new customer has been added successfully
+2024-05-25 20:50:22,111 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 20:50:22,912 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 20:50:25,697 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 20:50:27,524 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 20:50:36,892 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 20:50:37,070 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 20:50:39,542 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 20:50:41,352 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 20:50:45,832 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 20:50:47,581 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-25 20:50:47,595 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 20:50:47,596 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 21:36:36,607 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 21:36:39,606 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 21:36:42,154 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 21:36:50,140 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 21:36:50,350 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 21:36:51,336 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 21:36:53,355 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 21:37:01,769 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 21:37:01,977 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 21:37:02,940 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 21:37:04,403 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 21:37:09,146 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 21:37:11,021 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-25 21:37:11,037 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 21:37:11,038 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 21:52:13,388 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 21:52:16,010 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 21:52:18,426 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 21:52:25,245 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 21:52:25,246 - NopCommerceLog -INFO - **** Adding new customer ****
+2024-05-25 21:52:28,995 - NopCommerceLog -INFO - **** Saving customer details ****
+2024-05-25 21:52:30,482 - NopCommerceLog -INFO - **** Success message ****The new customer has been added successfully
+2024-05-25 21:52:30,483 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 21:52:30,704 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 21:52:31,678 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 21:52:35,310 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 21:52:44,227 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 21:52:44,395 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 21:52:45,292 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 21:52:46,706 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 21:52:55,985 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 21:52:56,168 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 21:52:57,110 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 21:52:58,482 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 21:53:01,802 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 21:53:03,401 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-25 21:53:03,416 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 21:53:03,416 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 21:53:03,589 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 21:53:04,837 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 21:53:06,477 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 21:53:10,074 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 21:53:11,783 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-25 21:53:11,797 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 21:53:11,798 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 21:53:11,972 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 21:53:12,920 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 21:53:15,096 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 21:53:16,782 - NopCommerceLog -ERROR - **** Login failed ****
+2024-05-25 21:53:16,782 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 21:53:16,964 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 21:53:17,902 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 21:53:19,572 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 21:53:20,247 - NopCommerceLog -ERROR - **** Login failed ****
+2024-05-25 21:53:20,248 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 21:57:52,532 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 21:57:54,234 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 21:57:56,993 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 21:58:05,619 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 22:04:42,599 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 22:04:44,162 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 22:04:46,421 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 22:04:54,461 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 22:04:54,654 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 22:04:55,598 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 22:04:57,766 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 22:05:05,950 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 22:22:04,929 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 22:22:07,856 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 22:22:11,078 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 22:22:20,464 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 22:22:20,656 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 22:22:22,286 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 22:22:25,094 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 22:22:29,256 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 22:22:31,334 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-25 22:22:31,349 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 22:22:31,349 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 22:23:21,764 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 22:23:23,196 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 22:23:25,366 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 22:23:34,430 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-25 22:23:34,655 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-25 22:23:35,552 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-25 22:23:37,034 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-25 22:23:40,904 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 22:23:42,703 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-25 22:23:42,730 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-25 22:23:42,730 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-26 00:19:54,096 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-26 00:19:57,290 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-26 00:19:59,704 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-26 00:20:09,002 - NopCommerceLog -INFO - **** Closing browser ****
+2024-05-26 00:20:09,152 - NopCommerceLog -INFO - **** Launching browser ****
+2024-05-26 00:20:10,072 - NopCommerceLog -INFO - **** Opening URL ****
+2024-05-26 00:20:11,302 - NopCommerceLog -INFO - **** Entering credentials ****
+2024-05-26 00:20:16,446 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-26 00:20:18,151 - NopCommerceLog -INFO - **** User Logged out ****
+2024-05-26 00:20:18,168 - NopCommerceLog -INFO - **** User Logged in ****
+2024-05-26 00:20:18,169 - NopCommerceLog -INFO - **** Closing browser ****
